@@ -10,15 +10,10 @@ permalink: /about/
 
 ### 교육
 
- | |
-:----------|----------|
- 2013 -  | [KAIST(한국과학기술원)](http://www.kaist.ac.kr/)|
- 2011 - 2012| [한성과학고등학교](http://www.hansung-sh.hs.kr/)|
- 
-   First Header  | Second Header
-  ------------- | -------------
-  Content Cell  | Content Cell
-  Content Cell  | Content Cell
+| | |
+|:----------|----------|
+| 2013 -  | [KAIST(한국과학기술원)](http://www.kaist.ac.kr/)|
+| 2011 - 2012 | [한성과학고등학교](http://www.hansung-sh.hs.kr/)|
 
 ### Contact me
 
