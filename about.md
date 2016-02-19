@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## 김준
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### 교육
+
+|||
+|:----------|----------|
+| 2013 -  | [KAIST(한국과학기술원)](http://www.kaist.ac.kr/)|
+| 2011 - 2012| [한성과학고등학교](http://www.hansung-sh.hs.kr/)|
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+* email: [xbfld@kaist.ac.kr](mailto:{{ site.footer-links.email }})
