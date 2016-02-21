@@ -23,7 +23,7 @@ permalink: /about/
     - HAJE 웹페이지 및 프로젝트 서버관리
     - HAJE 내부 네트워크 관리
     - 다음 Sysop 교육 및 인수인계
-- 2015 가을학기, 주강사로 [ 인성/리더십 III<게임 개발 입문> ][<게임 개발 입문>]강의를 한 학기(13주) 동안 진행했습니다. [(강의자료)][http://noah.kaist.ac.kr/Circle/HAJE/seminar/15IGD]
+- 2015 가을학기, 주강사로 [ 인성/리더십 III<게임 개발 입문> ][<게임 개발 입문>]강의를 한 학기(13주) 동안 진행했습니다. [(강의자료)](http://noah.kaist.ac.kr/Circle/HAJE/seminar/15IGD)
 
 ### 프로젝트
 
