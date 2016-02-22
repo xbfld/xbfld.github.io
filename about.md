@@ -7,6 +7,10 @@ permalink: /about/
 ## 김준
 대전 학교 기숙사에서 거주중
 
+python을 주로 사용하며 js, java, c#, c++, c는 MSDN과 Stack Overflow, 각종 Document가 있는 환경에서 사용할 수 있습니다.
+
+cocos2d-x, unity를 사용한 게임 개발 경험이 있습니다.
+
 
 ### 교육
 
