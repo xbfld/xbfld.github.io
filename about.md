@@ -26,16 +26,16 @@ permalink: /about/
 ### 기타 활동
 
 - 2013 \- 현재, [HAJE(게임제작동아리)][HAJE]에서 활동하고 있습니다
-  - 2015 \- 현재, HAJE Sysop으로 다음과 같이 활동하고 있습니다.
-    - 전산학과 게시판 [노아보드(noah3k)][noah]관리
-    - HAJE 웹페이지 및 프로젝트 서버관리
-    - HAJE 내부 네트워크 관리
-    - 다음 Sysop 교육 및 인수인계
+    - 2015 \- 현재, HAJE Sysop으로 다음과 같이 활동하고 있습니다.
+        - 전산학과 게시판 [노아보드(noah3k)][noah]관리
+        - HAJE 웹페이지 및 프로젝트 서버관리
+        - HAJE 내부 네트워크 관리
+        - 다음 Sysop 교육 및 인수인계
   
-  - 다양한 행사를 진행했습니다.
-    - [2015 가을 Game Design Workshop](http://noah.kaist.ac.kr/Circle/HAJE/seminar/15GDW), 총괄
-    - [2015 봄 하제 게임잼](http://noah.kaist.ac.kr/Circle/HAJE/project/15spring_gamejam), 총괄
-    - [2014 가을학기 게임잼](http://noah.kaist.ac.kr/Circle/HAJE/seminar/Old/14newbie/14FallGameJam), 진행
+    - 다양한 행사를 진행했습니다.
+        - [2015 가을 Game Design Workshop](http://noah.kaist.ac.kr/Circle/HAJE/seminar/15GDW), 총괄
+        - [2015 봄 하제 게임잼](http://noah.kaist.ac.kr/Circle/HAJE/project/15spring_gamejam), 총괄
+        - [2014 가을학기 게임잼](http://noah.kaist.ac.kr/Circle/HAJE/seminar/Old/14newbie/14FallGameJam), 진행
 
 - 2014 1월, [GGJ 2014 Pangyo Site @ Nexon Korea]에 스태프로 참가했습니다.
 
