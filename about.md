@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+updated: 2016.06.01
+
 ## 김준
 Cell: +82-10-9506-4925
 
@@ -17,28 +19,33 @@ Email: xbfld@kaist.ac.kr
     - 슬라임이 돌아다니며 땅을 색칠하며 자기 팀의 색깔로 둘러정해진 시간이 지난 뒤 더 많은 땅을 차지한 쪽이 승리, 땅따먹기의 변형
     - 게임 프로그래머, 배포 웹 페이지 설정, 기획 참가
     - VS2015, C#, OpenTK 환경에서 게임 메인 로직, 리플레이, 게임 결과 화면 UI 개발
+
 - [Mice in the Milk(가제)](http://noah.kaist.ac.kr/ant/cehigi/+read/552314) (2015.03.06 18:00~23:00)
     - 게임 영상: [YouTube](https://youtu.be/y4T5SY9E3p8) [이미지](https://noah.haje.org/static/uploads/552335/%EA%B0%80%EC%A0%9C_MITM.pdf)
     - 게임 조작법에 대한 실험적 게임으로 프로토타입 제작후 개발 중단; 생성되어 떨어지고 바닥에 쌓여가는 돌 블럭들을 피해 최대한 오래 생존하는 게임
     - 개인 프로젝트
     - VS2008, C#, Unity4 환경에서 게임 로직, UI 등 모든 부분 개발
+
 - 출출한 NDM의 식도락 ~ Gravity Board (2014.08.15 ~ 2014.08.17)
     - 게임 영상: [YouTube](https://youtu.be/ufCTFPdD8kU) [(source)](https://github.com/LemonTeaDev/gravityboard)
     - 2014 넥슨지원 동아리들과 48시간 동안 즉흥적으로 게임을 만드는 행사 NDMGJ에서 만든 2~4인용 보드게임
     - 게임잼 6인 프로젝트
     - 아이디어 발상부터 밸런싱 까지 모든 단계의 게임 디자인 관여
     - VS2013, cocos2d-x 환경
+
 - [01-up maze][01-up maze] (2014.04.28)
     - 게임 영상: [YouTube](https://youtu.be/vwZMSHO6fEU)
     - [XL-up maze]의 아이디어를 변형했고 프로토타입 이후 개발 중단
     - 방향키로 4x4 격자판 내의 노란색 사각형을 아래쪽에 표시된 순서(이진수 표기)에 따라 움직여 최대한 큰 숫자에 이르는 것이 목표인 퍼즐게임
     - 개인 프로젝트
     - Python2.7, Tkinter 환경에서 로직, UI 등 모든 부분 개발
+
 - [Roaming Slime](http://noah.kaist.ac.kr/Circle/HAJE/project/Old/13ai) (2013.07.30 ~ 2013.09.29)
     - [이미지](http://noah.kaist.ac.kr/static/uploads/553126/ROAMING%20SLIME.png) [메뉴얼](http://noah.kaist.ac.kr/static/uploads/553131/AI%20game%20manual.pdf)
     - 2013 카포전(Science War)의 AI대전용 게임으로 서로 다른 두 팀이 각자의 AI를 겨룰 수 있도록 고안된 동시 턴 방식의 전략 AI 게임
     - 상대의 슬라임을 모두 죽이거나 정해진 시간이 끝난 뒤 더 많은 땅을 칠한 쪽이 승리
     - 아이디어 발상, 맵 디자인 등 모든 단계의 게임 디자인 관여
+
 - [Flow](http://haje.org/projects/flow/index)
     - 2013 하제 게임잼 (주제: 의태) 참가작. 알맞은 시각과 위치에서 흐름을 타 목표지점에 도달하는 게임
     - 아이디어 발상, 맵 디자인 등 모든 단계의 게임 디자인 관여
@@ -59,7 +66,7 @@ Email: xbfld@kaist.ac.kr
         - [2015 봄 하제 게임잼](http://noah.kaist.ac.kr/Circle/HAJE/project/15spring_gamejam), 총괄
         - [2014 가을학기 게임잼](http://noah.kaist.ac.kr/Circle/HAJE/seminar/Old/14newbie/14FallGameJam), 진행
 
-- 2014 1월, [GGJ 2014 Pangyo Site @ Nexon Korea]에 스태프로 참가했습니다.
+- 2014 1월, [2014 GGJ(48시간동안 즉흥적으로 게임을 만드는 행사)][GGJ 2014 Pangyo Site @ Nexon Korea]에 스태프로 참가.
 
 - 2014 8월, [2014 NDMGJ]에 참가해 [출출한 NDM의 식도락 ~ Gravity Board]를 만들었습니다.
 
