@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-updated: 2016.06.01
-
 ## 김준
 Cell: +82-10-9506-4925
 Email: xbfld@kaist.ac.kr
