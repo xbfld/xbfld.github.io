@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: About
 permalink: /about/
@@ -79,7 +79,7 @@ git을 이용한 버전관리 능력
 
 ### Contact me
 
-* email: [xbfld@kaist.ac.kr](mailto:{{ site.footer-links.email }})
+[xbfld@kaist.ac.kr](mailto:xbfld@kaist.ac.kr)
 
 ***
 [HAJE]: http://haje.org/
