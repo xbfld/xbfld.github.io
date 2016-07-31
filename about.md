@@ -13,6 +13,20 @@ Email: xbfld@kaist.ac.kr
 
 ### Projects
 
+- [GGGame(가제)] (2016.07.26~ )
+    - 2D 사이드뷰 퍼즐 플랫포머로 8월 말까지 개발 예정
+    - 캐릭터가 특정 능력을 얻어 퍼즐맵을 탈출하는데 왼쪽으로 걷기나 웅크리기 등 능력을 아주 세세하게 나눠 차별점을 두었다
+    - 본인 발제, 7인 프로젝트
+    - PM, 기획, 프로그래머로 참가
+
+- [게임 개발 이야기](http://noah.kaist.ac.kr/ant/cehigi/+read/552314) (2016.07.30 00:00~24:00)
+    - [(source)](https://bitbucket.org/haje/game-development-story/)
+    - CUI 환경에서 돌아가는 게임제작동아리 메니징 게임으로 동아리 회장이 되어 방학기간동안 부원과 게임을 만든다
+    - 실제 있었던 또는 있을법한 상황을 각색해 만든 수십개의 다양한 이벤트를 만날 수 있다
+    - 24시간동안 즉흥적으로 진행된 10인 프로젝트
+    - 게임 프로그래머, 기획 참가
+    - VS2015, C# 환경에서 게임 메인 로직, 게임 이벤트 및 캐릭터 정보 xml 변환 등 개발
+
 - [슬라임 땅따먹기](http://15ai.haje.org) (2015.07 ~ 2015.09)
     - 게임 영상: [YouTube](https://youtu.be/v7ehkLaDpGk?list=PLUJX8drB8EKIqpfYYz8vXOiIKM6o-32X8),  [메뉴얼](https://bitbucket.org/Atonal/15ai/raw/0031a9442dbed3e906c05a6a118f7d68fffe7eac/docs/AI%20%EA%B2%8C%EC%9E%84-%20%EC%8A%AC%EB%9D%BC%EC%9E%84%20%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0%20%EB%AA%85%EC%84%B8.pdf)
     - 2015 카포전(Science War)의 AI대전용 게임으로 서로 다른 두 팀이 각자의 AI를 겨룰 수 있도록 고안된 동시 턴 방식의 전략 AI 게임
