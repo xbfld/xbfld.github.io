@@ -20,7 +20,7 @@ Email: xbfld@kaist.ac.kr
     - PM, 기획, 프로그래머로 참가
 
 - [게임 개발 이야기](http://noah.kaist.ac.kr/ant/cehigi/+read/552314) (2016.07.30 00:00~24:00)
-    - [(source)](https://bitbucket.org/haje/game-development-story/)
+    - 게임 영상: [YouTube](https://youtu.be/spGuD3C0T3E), [(source)](https://bitbucket.org/haje/game-development-story/)
     - CUI 환경에서 돌아가는 게임제작동아리 메니징 게임으로 동아리 회장이 되어 방학기간동안 부원과 게임을 만든다
     - 실제 있었던 또는 있을법한 상황을 각색해 만든 수십개의 다양한 이벤트와 멀티엔딩을 만날 수 있다
     - 24시간동안 즉흥적으로 진행된 10인 프로젝트
