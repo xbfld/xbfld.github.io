@@ -53,9 +53,6 @@ baseurl: "http://xbfld.github.io"
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data"]
 highlighter: rouge
 permalink: /:title/
 
