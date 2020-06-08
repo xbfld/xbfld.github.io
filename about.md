@@ -68,7 +68,7 @@ Email: xbfld0614@gmail.com
 ### Extra Antivity
 
 - 2013 \- 2017, [HAJE(게임제작동아리)][HAJE]에서 활동했습니다.
-    - 2015 \- 2017, HAJE Sysop으로 다음과 같이 활동했습니다.
+    - 2015 \- 2016, HAJE Sysop으로 다음과 같이 활동했습니다.
         - 전산학과 게시판 [노아보드(noah3k)][noah]관리
         - HAJE 웹페이지 및 프로젝트 서버관리
         - HAJE 내부 네트워크 관리
