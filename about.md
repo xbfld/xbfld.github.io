@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-updated: 2017.08.03
+updated: 2020.06.08
 
 ## 김준
 Cell: +82-10-9506-4925
 
-Email: xbfld@kaist.ac.kr
+Email: xbfld0614@gmail.com
 
 ### Projects
 
@@ -67,8 +67,8 @@ Email: xbfld@kaist.ac.kr
 
 ### Extra Antivity
 
-- 2013 \- 현재, [HAJE(게임제작동아리)][HAJE]에서 활동하고 있습니다
-    - 2015 \- 현재, HAJE Sysop으로 다음과 같이 활동하고 있습니다.
+- 2013 \- 2017, [HAJE(게임제작동아리)][HAJE]에서 활동했습니다.
+    - 2015 \- 2017, HAJE Sysop으로 다음과 같이 활동했습니다.
         - 전산학과 게시판 [노아보드(noah3k)][noah]관리
         - HAJE 웹페이지 및 프로젝트 서버관리
         - HAJE 내부 네트워크 관리
@@ -77,7 +77,7 @@ Email: xbfld@kaist.ac.kr
 
     - 다양한 행사를 진행했습니다.
         - [2015 가을 Game Design Workshop](http://noah.kaist.ac.kr/Circle/HAJE/seminar/15GDW), 총괄
-        - [2015 봄 하제 게임잼](http://noah.kaist.ac.kr/Circle/HAJE/project/15spring_gamejam), 총괄
+        - [2015 봄 하제 게임잼](https://noah.kaist.ac.kr/Circle/HAJE/project/Old/15spring_gamejam), 총괄
         - [2014 가을학기 게임잼](http://noah.kaist.ac.kr/Circle/HAJE/seminar/Old/14newbie/14FallGameJam), 진행
 
 - 2014 1월, [2014 GGJ(48시간동안 즉흥적으로 게임을 만드는 행사)][GGJ 2014 Pangyo Site @ Nexon Korea]에 스태프로 참가.
@@ -92,7 +92,7 @@ Email: xbfld@kaist.ac.kr
 
 | | |
 |:----------|----------|
-| 2013.03 - 2017.08 |- KAIST 전산학부(School of Computing) 졸업(예정)|
+| 2013.03 - 2017.08 |- KAIST 전산학부(School of Computing) 졸업|
 | 2011.03 - 2013.02 |- 한성과학고등학교 졸업|
 
 ### Skills
@@ -101,13 +101,13 @@ Python, C#, JAVA, C++, C, JS를 사용한 개발 경험
 
 cocos2d-x, unity, ren'py, pygame, xna를 사용한 게임 개발 경험
 
-git을 이용한 버전관리 능력
+git, github을 이용한 버전관리 능력
 
 프로젝트 매니징을 포함한 다수의 협업개발 경험
 
 ### Contact me
 
-[xbfld@kaist.ac.kr](mailto:xbfld@kaist.ac.kr)
+[xbfld0614@gmail.com](mailto:xbfld0614@gmail.com)
 
 ***
 [HAJE]: http://haje.org/
