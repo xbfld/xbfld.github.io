@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-updated: 2020.06.08
+updated: 2020.06.19
 
 ## 김준
 Cell: +82-10-9506-4925
@@ -13,6 +13,13 @@ Email: xbfld0614@gmail.com
 
 ### Projects
 
+- [신도버린흑마]() (2017.08.11 ~ 2017.08.13)
+    - 2017GGGGJ에서 만든 턴제 전투 게임 (2017GGGGJ: 넥슨지원 동아리가 참가한 48시간 게임잼 행사)
+    - [(source)](https://bitbucket.org/jaeyounglee/discardedwarlock/src/master/)
+    - 주인공은 축복이나 저주를 5개 가졌는데 전투보상인 무기나 아이템을 봉납함으로써 다른 것으로 바꿀 기회를 얻는다.
+    - 개임잼 6인 프로젝트
+    - 프로그래머로 참가
+    
 - [GGGame(가제)]() (2016.07.26 ~ 2016.08)
     - 2D 사이드뷰 퍼즐 플랫포머로 8월 말까지 개발 예정이었으나 개인사정으로 인해 중단
     - 캐릭터가 특정 능력을 얻어 퍼즐맵을 탈출하는데 그 능력을 왼쪽으로 걷기나 웅크리기 등 당연해 보이는 것 까지 아주 세세하게 나눠 비슷한 컨셉의 게임과 차별점을 두었다
@@ -109,6 +116,7 @@ git, github을 이용한 버전관리 능력
 
 [xbfld0614@gmail.com](mailto:xbfld0614@gmail.com)
 
+[^1]: asdf
 ***
 [HAJE]: http://haje.org/
 [noah]: http://noah.kaist.ac.kr/
